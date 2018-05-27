@@ -34,6 +34,8 @@ void setup()
   background(255);  //Backround color
   
   text("Chargement de l'application ...", 20, 50);
+  
+  frame.setTitle("Compteur vélo - Projet d'ISN");  
 }
 
 void draw()
